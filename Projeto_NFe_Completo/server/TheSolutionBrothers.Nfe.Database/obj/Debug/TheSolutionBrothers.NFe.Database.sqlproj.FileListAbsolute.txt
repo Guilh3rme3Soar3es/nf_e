@@ -1,0 +1,5 @@
+H:\NF_e\thesolutionbrothers\Projeto_NFe_Completo\server\TheSolutionBrothers.NFe.Database\bin\Debug\TheSolutionBrothers.NFe.Database.dacpac
+H:\NF_e\thesolutionbrothers\Projeto_NFe_Completo\server\TheSolutionBrothers.NFe.Database\bin\Debug\NDD.Nfe.Database.dll
+H:\NF_e\thesolutionbrothers\Projeto_NFe_Completo\server\TheSolutionBrothers.NFe.Database\bin\Debug\NDD.Nfe.Database.pdb
+H:\NF_e\thesolutionbrothers\Projeto_NFe_Completo\server\TheSolutionBrothers.NFe.Database\obj\Debug\NDD.Nfe.Database.dll
+H:\NF_e\thesolutionbrothers\Projeto_NFe_Completo\server\TheSolutionBrothers.NFe.Database\obj\Debug\NDD.Nfe.Database.pdb

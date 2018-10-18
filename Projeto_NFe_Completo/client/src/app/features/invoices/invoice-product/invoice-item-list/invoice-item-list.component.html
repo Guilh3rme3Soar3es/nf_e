@@ -1,0 +1,23 @@
+<section>    
+    <div class="row">
+        <div class="col-sm-12 form__group">
+            <kendo-grid 
+                [data]="invoiceItems.controls"
+                [style.height]="'300px'"
+                (dataStateChange)="dataStateChange($event)"
+                (selectionChange)="onSelectionChange($event)">
+            <kendo-grid-checkbox-column width="40"></kendo-grid-checkbox-column>
+            <kendo-grid-column title="Descrição">
+                <ng-template kendoGridCellTemplate let-dataItem>
+                    <div>{{ dataItem.get('product').value?.description }}</div>
+                </ng-template>
+            </kendo-grid-column>
+            <kendo-grid-column title="Quantidade" width="120">
+                <ng-template kendoGridCellTemplate let-dataItem>
+                        <div>{{ dataItem.get('amount').value }}</div>
+                </ng-template>
+            </kendo-grid-column>
+            </kendo-grid>
+        </div>
+    </div>
+</section>

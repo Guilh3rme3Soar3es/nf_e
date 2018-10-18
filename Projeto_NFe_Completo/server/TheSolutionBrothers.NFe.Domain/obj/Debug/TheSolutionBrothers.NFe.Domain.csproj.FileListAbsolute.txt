@@ -1,0 +1,16 @@
+H:\NF_e\thesolutionbrothers\Projeto_NFe_Completo\server\TheSolutionBrothers.NFe.Domain\bin\Debug\TheSolutionBrothers.NFe.Domain.dll
+H:\NF_e\thesolutionbrothers\Projeto_NFe_Completo\server\TheSolutionBrothers.NFe.Domain\bin\Debug\TheSolutionBrothers.NFe.Domain.pdb
+H:\NF_e\thesolutionbrothers\Projeto_NFe_Completo\server\TheSolutionBrothers.NFe.Domain\bin\Debug\TheSolutionBrothers.Nfe.Infra.dll
+H:\NF_e\thesolutionbrothers\Projeto_NFe_Completo\server\TheSolutionBrothers.NFe.Domain\bin\Debug\log4net.dll
+H:\NF_e\thesolutionbrothers\Projeto_NFe_Completo\server\TheSolutionBrothers.NFe.Domain\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+H:\NF_e\thesolutionbrothers\Projeto_NFe_Completo\server\TheSolutionBrothers.NFe.Domain\bin\Debug\netstandard.dll
+H:\NF_e\thesolutionbrothers\Projeto_NFe_Completo\server\TheSolutionBrothers.NFe.Domain\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+H:\NF_e\thesolutionbrothers\Projeto_NFe_Completo\server\TheSolutionBrothers.NFe.Domain\bin\Debug\TheSolutionBrothers.Nfe.Infra.pdb
+H:\NF_e\thesolutionbrothers\Projeto_NFe_Completo\server\TheSolutionBrothers.NFe.Domain\bin\Debug\log4net.xml
+H:\NF_e\thesolutionbrothers\Projeto_NFe_Completo\server\TheSolutionBrothers.NFe.Domain\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+H:\NF_e\thesolutionbrothers\Projeto_NFe_Completo\server\TheSolutionBrothers.NFe.Domain\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+H:\NF_e\thesolutionbrothers\Projeto_NFe_Completo\server\TheSolutionBrothers.NFe.Domain\obj\Debug\TheSolutionBrothers.NFe.Domain.csprojAssemblyReference.cache
+H:\NF_e\thesolutionbrothers\Projeto_NFe_Completo\server\TheSolutionBrothers.NFe.Domain\obj\Debug\TheSolutionBrothers.NFe.Domain.csproj.CoreCompileInputs.cache
+H:\NF_e\thesolutionbrothers\Projeto_NFe_Completo\server\TheSolutionBrothers.NFe.Domain\obj\Debug\TheSolutionBrothers.NFe.Domain.csproj.CopyComplete
+H:\NF_e\thesolutionbrothers\Projeto_NFe_Completo\server\TheSolutionBrothers.NFe.Domain\obj\Debug\TheSolutionBrothers.NFe.Domain.dll
+H:\NF_e\thesolutionbrothers\Projeto_NFe_Completo\server\TheSolutionBrothers.NFe.Domain\obj\Debug\TheSolutionBrothers.NFe.Domain.pdb

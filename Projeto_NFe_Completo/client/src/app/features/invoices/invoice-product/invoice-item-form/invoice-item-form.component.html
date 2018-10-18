@@ -1,0 +1,55 @@
+<div class="form feature-view-tab__content">
+    <form (ngSubmit)="onSubmit($event)" [formGroup]="formModelItem">
+        <section>
+            <div class="row">
+                <div class="col-sm-12">
+                    <h1 class="form__title">ITENS DA NOTA FISCAL</h1>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-12 col-md-6 form__fieldset">
+
+                    <div class="row">
+                        <div class="col-sm-12 form__group">
+                            <label for="product" class="form__label">
+                                Produto
+                                <span class="form__label form__label--required">*</span>
+                            </label>
+                            <kendo-dropdownlist
+                                [data]="productData"
+                                formControlName="product"
+                                [textField]="'description'"
+                                [valueField]="'description'"
+                                [filterable]="true"
+                                (filterChange)="onProductAutoCompleteChange($event)"
+                                class="form__k-dropdown">
+                            </kendo-dropdownlist>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-6 form__fieldset">
+                    <div class="row">
+
+                        <div class="col-sm-12 form__group">
+                            <label for="amount" class="form__label">
+                                Quantidade
+                                <span class="form__label form__label--required">*</span>
+                            </label>
+                            <input type="text" id="amount" formControlName="amount" class="form__input" placeholder="Informe a quantidade">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-12 col-md-6 form__fieldset">
+                    <button type="submit" class="ndd-ng-button ndd-ng-button--primary" [disabled]="formModelItem.invalid">Adicionar</button> 
+                    <button type="button" (click)="deleteProduct()" class="ndd-ng-button ndd-ng-button--primary">Remover</button>
+                </div>
+            </div>
+        </section>    
+    </form>
+    
+    <ndd-invoice-item-list [invoiceItems]="invoiceItems"></ndd-invoice-item-list>
+</div>
